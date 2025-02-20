@@ -90,3 +90,32 @@ This repository and the `submission` branch represent my final submission for Ha
    ```bash
    git clone https://github.com/YOUR_USERNAME/online-shop.git
    cd online-shop
+   
+2. **Docker build & Run:**
+   ```bash
+   docker build -t online-shop .
+   docker run -d -p 80:3000 online-shop
+
+3. **Deploying on an AWS EC2 Instance**
+   1. ***Launch an EC2 Instance:***
+     - Log in to the AWS Management Console and launch a new EC2 instance (Ubuntu or Amazon linux is recommended).
+     - Ensure the instance's security group allows inbound traffic on port 3000.
+   2. ***Connect to the EC2 Instance:***
+      - Use SSH to connect to your instance:
+      - ```bash
+        ssh -i /path/to/your-key.pem ubuntu@<EC2_PUBLIC_IP>
+    3. ***Install Docker on the EC2 Instance:***
+       - Update package information and install Docker:
+       - ```bash
+         sudo apt-get update && apt-get upgrade -y
+         sudo apt-get install -y docker.io
+         sudo systemctl start docker
+         sudo enable docker
+      - To check the status of docker
+      - ```bash
+        systemctl status docker
+    4. ***Follow the Step 1 and 2 afterwards ***
+  
+4. **Open the Application on local web browser:**
+   - http://<EC2_PUBLIC_IP>:3000
+    -You should see your Online Shop application running.
