@@ -88,7 +88,7 @@ This repository and the `submission` branch represent my final submission for Ha
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/online-shop.git
+   git clone https://github.com/Chinmay9460/online-shop.git
    cd online-shop
    
 2. **Docker build & Run:**
