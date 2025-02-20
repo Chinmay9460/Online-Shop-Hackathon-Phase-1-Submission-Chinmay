@@ -70,9 +70,9 @@ This repository and the `final-phase1` branch represent my final submission for 
 
 ## Version / Branch Information
 
-- **Final Submission Branch:** `final-phase1`
-- **Latest Commit Hash:** `abc1234` *(replace with the actual commit hash)*
-- **Build Date:** *(Insert the build date)*
+- **Final Submission Branch:** `submission`
+- **Latest Commit Hash:** `a8a609a00d2a4f0ec364ebbc34a7e9c7f4c955ea` *(replace with the actual commit hash)*
+- **Build Date:** *(20/02/2025)*
 
 ---
 
