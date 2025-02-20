@@ -24,7 +24,7 @@ Welcome to the Online Shop project – our hackathon entry for Phase 1. This rep
 ## Tasks & Implementations
 
 ### Git & GitHub
-- **Repository Management:** Forked the repository and created a dedicated branch (`final-phase1`) for submission.
+- **Repository Management:** Forked the repository and created a dedicated branch (`submission`) for submission.
 - **Commit Quality:** Used descriptive commits following the Conventional Commits specification (e.g., `feat: add Dockerfile for production builds`).
 - **Collaboration Practices:** Prepared a pull request with clear documentation of enhancements and refactorings.
 
@@ -64,7 +64,7 @@ A demo video showcasing the application's functionality and the Docker-based pro
 
 ## Final Submission Statement
 
-This repository and the `final-phase1` branch represent my final submission for Hackathon Phase 1. All enhancements have been thoroughly tested and are committed to this branch.
+This repository and the `submission` branch represent my final submission for Hackathon Phase 1. All enhancements have been thoroughly tested and are committed to this branch.
 
 ---
 
