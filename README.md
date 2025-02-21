@@ -88,8 +88,9 @@ This repository and the `submission` branch represent my final submission for Ha
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Chinmay9460/online-shop.git
-   cd online-shop
+   git clone https://github.com/Chinmay9460/Online-Shop-Hackathon-Phase-1-Submission-Chinmay.git   
+   mv Online-Shop-Hackathon-Phase-1-Submission-Chinmay Online-shop
+   cd Online-Shop
    
 2. **Docker build & Run:**
    ```bash
