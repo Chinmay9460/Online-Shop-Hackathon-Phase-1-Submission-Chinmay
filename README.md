@@ -58,7 +58,7 @@ Welcome to the Online Shop project – our hackathon entry for Phase 1. This rep
 
 ## Demo Video
 
-A demo video showcasing the application's functionality and the Docker-based production workflow is available [here](INSERT_DEMO_VIDEO_LINK).
+A demo video showcasing the application's functionality and the Docker-based production workflow is available [here](https://drive.google.com/file/d/14xIhhyexck7SpDc6zeMXhFGxI7ISnz8C/view?usp=drive_link).
 
 ---
 
